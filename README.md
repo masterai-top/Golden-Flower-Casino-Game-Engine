@@ -1,4 +1,4 @@
-# 🃏 炸金花棋牌游戏源码 | 含牛牛+红黑大战+飞禽走兽|Golden Flower Casino Game Engine | 炸金花游戏系统 | 多人扑克变种系统
+# 🃏 炸金花棋牌游戏源码 | 棋牌源码 | 含牛牛+红黑大战+飞禽走兽|Golden Flower Casino Game Engine | 炸金花游戏系统 | 多人扑克变种系统
 
 
 > **完整棋牌平台 | 多游戏合集 | PHP+Erlang架构 | 全套源码**
